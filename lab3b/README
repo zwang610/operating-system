@@ -1,0 +1,5 @@
+
+
+lab3b.py: an executable which accept a single, required, command line argument, the name of the file to be analyzed
+Makefile: build and run the deliverable program
+README: descriptions of each of the included files
